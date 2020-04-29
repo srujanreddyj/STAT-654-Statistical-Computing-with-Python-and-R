@@ -8,12 +8,12 @@ We came across **RAM - Repelling Attracting Metropolis Algorithm** when we were 
 
 This project outlines as follows
 ------
-1. Understand and implement the Repelling Attracting Metropolis Algorithm developed by Hyungsuk Tak, Xiao-Li Meng, David A. van Dyk
-2. Apply RAM on [sensor network localization](https://github.com/srujanreddyj/STAT-654-Term-Project/blob/master/Sensor%20Network-%20RAM.R) 
-3. Compare computational time and speed of RAM with BFGS(an optimization technique) - This step is done to apply the lessons we learned in the class
-  * [BFGS on Sensor Network Localization](https://github.com/srujanreddyj/STAT-654-Term-Project/blob/master/Sensor%20network-%20BFGS.R
+* Understand and implement the Repelling Attracting Metropolis Algorithm developed by Hyungsuk Tak, Xiao-Li Meng, David A. van Dyk
+* Apply RAM on [sensor network localization](https://github.com/srujanreddyj/STAT-654-Term-Project/blob/master/Sensor%20Network-%20RAM.R) 
+* Compare computational time and speed of RAM with BFGS(an optimization technique) - This step is done to apply the lessons we learned in the class
+  * [BFGS on Sensor Network Localization](https://github.com/srujanreddyj/STAT-654-Term-Project/blob/master/Sensor%20network-%20BFGS.R)
   * [RAM on Sensor Network Localization](https://github.com/srujanreddyj/STAT-654-Term-Project/blob/master/Sensor%20Network-%20RAM.R)  
-4. Apply RAM on real dataset - 7-dimensional posterior form an EXOPLANET detection problem to populate samples and find the planet's orbital period
+* Apply RAM on real dataset - 7-dimensional posterior form an EXOPLANET detection problem to populate samples and find the planet's orbital period
 
 * Item 2
   * Item 2a
