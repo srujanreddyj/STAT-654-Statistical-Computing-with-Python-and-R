@@ -14,10 +14,8 @@ This project outlines as follows
   * [BFGS on Sensor Network Localization](https://github.com/srujanreddyj/STAT-654-Term-Project/blob/master/Sensor%20network-%20BFGS.R)
   * [RAM on Sensor Network Localization](https://github.com/srujanreddyj/STAT-654-Term-Project/blob/master/Sensor%20Network-%20RAM.R)  
 * Apply RAM on real dataset - 7-dimensional posterior form an EXOPLANET detection problem to populate samples and find the planet's orbital period
-
-* Item 2
-  * Item 2a
-  * Item 2b
+  * [EXOPLANET with RAM](https://github.com/srujanreddyj/STAT-654-Term-Project/blob/master/Exoplanet-%20RAM.R)
+  * [EXOPLANET with Metropolis](https://github.com/srujanreddyj/STAT-654-Term-Project/blob/master/Exoplanet-%20Metropolis%20Hasting.R)
 
 Software Used
 ------
