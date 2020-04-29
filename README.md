@@ -20,6 +20,8 @@ This project outlines as follows
  REPORT
  --
  [Project Report](https://github.com/srujanreddyj/STAT-654-Term-Project/blob/master/Group_8_STAT_654_Term%20Project_Report(1).pdf)
+[Project Report](https://github.com/srujanreddyj/STAT-654-Term-Project/blob/master/Group_8_STAT_654_Term%20Project_Report(1).docx)
+
 
 Software Used
 ------
