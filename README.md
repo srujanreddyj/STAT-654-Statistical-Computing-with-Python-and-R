@@ -15,7 +15,9 @@ This project outlines as follows
   - [RAM on Sensor Network Localization](https://github.com/srujanreddyj/STAT-654-Term-Project/blob/master/Sensor%20Network-%20RAM.R)  
 4. Apply RAM on real dataset - 7-dimensional posterior form an EXOPLANET detection problem to populate samples and find the planet's orbital period
 
-
+* Item 2
+  * Item 2a
+  * Item 2b
 
 Software Used
 ------
