@@ -19,8 +19,8 @@ This project outlines as follows
   
  REPORT
  --
- [Project Report](https://github.com/srujanreddyj/STAT-654-Term-Project/blob/master/Group_8_STAT_654_Term%20Project_Report(1).pdf)
-[Presentation](https://github.com/srujanreddyj/STAT-654-Term-Project/blob/master/Group_8_Stat_%20654_Term_%20Project.pdf)
+* [Project Report](https://github.com/srujanreddyj/STAT-654-Term-Project/blob/master/Group_8_STAT_654_Term%20Project_Report_final.pdf)
+* [Presentation](https://github.com/srujanreddyj/STAT-654-Term-Project/blob/master/Group_8_Stat_%20654_Term_%20Project.pdf)
 
 
 Software Used
