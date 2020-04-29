@@ -12,5 +12,4 @@ This project outlines as follows
 3. Compare computational time and speed of RAM with BFGS(an optimization technique) - This step is done to apply the lessons we learned in the class
 4. Apply RAM on real dataset - 7-dimensional posterior form an EXOPLANET detection problem to populate samples and find the planet's orbital period
 
-Software Used
-The fitting code is written in R.
+Software Used: The fitting code is written in R.
