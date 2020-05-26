@@ -2,7 +2,7 @@
 
 This repository contains our semester end term project for the subject **STATISTICAL COMPUTING with R & PYTHON**.
 
-# Project Goal and Outline
+Project Goal and Outline
 ------
 
 We were intrigued by the **Monte Carlo Markov chain** and **Metropolis algorithm** and wanted to explore more as they are highly applied in our domain field of Industrial Engineering. As this course on statistical computing, we wanted to explore the statistics part of the concept and go a step ahead to see the advances in this field and their present applications. 
