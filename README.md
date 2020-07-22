@@ -1,4 +1,4 @@
-# STAT-654-Term-Project
+# STAT-654-Term-Project and coursework
 
 This repository contains our semester end term project for the subject **STATISTICAL COMPUTING with R & PYTHON**.
 
